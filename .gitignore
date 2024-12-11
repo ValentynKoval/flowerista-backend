@@ -1,0 +1,13 @@
+/bin/
+# ignore the file literally named .classpath
+.classpath
+.project
+.settings/
+HELP.md
+.mvn/
+/target
+*.log
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+/build/
